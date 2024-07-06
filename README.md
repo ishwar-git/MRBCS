@@ -17,4 +17,4 @@ https://mml-book.github.io/
 
 
 
-[MML]: https://mml-book.github.io/.md
+[MML]: https://mml-book.github.io/
