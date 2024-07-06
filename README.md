@@ -6,10 +6,15 @@ This Repository aims to gather information about **Must Read Books by a Computer
 
 
 
+https://mml-book.github.io/
+
+
+
+| Book Name                                                     | Domain    | Publisher |  Dificulty Lavel |  Text/Ref     |
+|---------------------------------------------------------------|:----------|----------:|-----------------:|:--------------|
+| Mathematics for Machine Learning[MML]                         |     ML    |           |      Standard    |      Ref      | 
 
 
 
 
-
-| Book Name                                 | Domain    | Publisher |  Dificulty Lavel |  Text/Ref     |
-|-------------------------------------------|:----------|----------:|-----------------:|:--------------|
+[MML]: https://mml-book.github.io/.md
